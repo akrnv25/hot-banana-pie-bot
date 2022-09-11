@@ -1,1 +1,1 @@
-# hot-banana-pie-bot
+# HotBananaPieBot
