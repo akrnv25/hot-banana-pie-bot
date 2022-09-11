@@ -1,0 +1,6 @@
+{
+  "START_MESSAGE": "Welcome to the HotBananaPieBot. Register to continue.",
+  "REGISTER_BUTTON": "Register",
+  "REGISTER_SUCCESS_MESSAGE": "Thank you for registering!",
+  "REGISTER_FAILURE_MESSAGE": "Registration error."
+}
